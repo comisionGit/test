@@ -7,6 +7,7 @@ public class comi {
 		System.out.println("Adios");
 		System.out.println();
 		System.out.println("SOy un genio ");
+		//
   }
 
 }
