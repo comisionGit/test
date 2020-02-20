@@ -2,9 +2,10 @@ package model;
 
 public class comi {
 	////
-	private void syso() {
-		///
+	
+  public static void main(String args[]) {
 		System.out.println("Adios");
-	}
+		System.out.println();
+  }
 
 }
