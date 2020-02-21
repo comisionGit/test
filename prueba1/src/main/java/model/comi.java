@@ -18,6 +18,17 @@ public class comi {
   
   public static  void metodoRoberto() {
 	  System.out.println("hola roberto.2");
-  }
+	  System.out.println("actualizado desde la rama.");
 
+ 
+  }
+  public void imprimir(){
+	  
+	  System.out.println("rama secundaria");
+  }
+   
+
+  public static void metodo() {
+	  System.out.println("F.");
+  }
 }
