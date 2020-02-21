@@ -24,6 +24,7 @@ public class comi {
   public void imprimir(){
 	  
 	  System.out.println("rama secundaria");
+	  System.out.println("dios moo n");
   }
    
 
