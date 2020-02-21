@@ -10,4 +10,7 @@ public class comi {
 		//
   }
 
+  public static void metodo() {
+	  System.out.println("F.");
+  }
 }
