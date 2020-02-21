@@ -14,5 +14,10 @@ public class comi {
   public static  void metodoRoberto() {
 	  System.out.println("hola roberto.2");
   }
+  public void imprimir(){
+	  
+	  System.out.println("rama secundaria");
+  }
+   
 
 }
