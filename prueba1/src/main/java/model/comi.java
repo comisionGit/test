@@ -20,8 +20,10 @@ public class comi {
 
 	  System.out.println("hola roberto.2");
 	  System.out.println("actualizado desde la rama.");
-	  
      System.out.println("sisu");
+	  System.out.println("otra linea mas mia.");
+	  
+
   }
   public void imprimir(){
 	  
