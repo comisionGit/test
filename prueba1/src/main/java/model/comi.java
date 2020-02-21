@@ -15,4 +15,7 @@ public class comi {
 	  System.out.println("hola roberto.2");
   }
 
+  public static void metodo() {
+	  System.out.println("F.");
+  }
 }
