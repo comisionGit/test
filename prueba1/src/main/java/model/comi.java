@@ -18,11 +18,7 @@ public class comi {
   
   public static  void metodoRoberto() {
 	  System.out.println("hola roberto.2");
-<<<<<<< HEAD
 	  System.out.println("actualizado desde la rama.");
-=======
->>>>>>> branch 'development' of https://github.com/comisionGit/test.git
-
  
   }
   public void imprimir(){
