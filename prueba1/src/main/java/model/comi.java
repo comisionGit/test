@@ -8,6 +8,11 @@ public class comi {
 		System.out.println();
 		System.out.println("SOy un genio ");
 		//
+		metodoRoberto();
+  }
+  
+  public static  void metodoRoberto() {
+	  System.out.println("hola roberto.");
   }
 
 }
