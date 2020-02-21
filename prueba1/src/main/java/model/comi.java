@@ -9,5 +9,10 @@ public class comi {
 		System.out.println("SOy un genio ");
 		//
   }
+  public void imprimir(){
+	  
+	  System.out.println("rama secundaria");
+  }
+   
 
 }
